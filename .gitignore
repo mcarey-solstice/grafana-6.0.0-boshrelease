@@ -14,12 +14,10 @@
 build/
 dist/
 
-*.gz
 *.bak
 *.log
 *.tar
 *.tmp
-*.tgz
 *.zip
 
 ##
