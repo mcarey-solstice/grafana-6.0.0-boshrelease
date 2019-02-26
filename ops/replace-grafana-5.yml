@@ -3,7 +3,7 @@
   path: /releases/-
   value:
     name: grafana-6.0.0
-    version: 0+dev.3
+    version: 0+dev.4
 
 - type: replace
   path: /instance_groups/name=grafana/jobs/name=grafana/release
