@@ -2,4 +2,4 @@
 name: grafana_plugins
 
 files:
-  - grafana_plugins/**/*
+  - prometheus-boshrelease/src/grafana_plugins/**/*

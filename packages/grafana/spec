@@ -2,7 +2,7 @@
 name: grafana
 
 files:
-  - common/utils.sh
+  - prometheus-boshrelease/src/common/utils.sh
   - grafana/grafana-6.0.0.linux-x64.tar.gz
   - fontconfig/fontconfig-2.13.1.tar.gz
   - freefont/freefont-otf-20120503.tar.gz
