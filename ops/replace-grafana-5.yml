@@ -1,10 +1,8 @@
----
-- type: replace
-  path: /releases/-
+- path: /releases/-
+  type: replace
   value:
     name: grafana-6.0.0
     version: 0+dev.5
-
-- type: replace
-  path: /instance_groups/name=grafana/jobs/name=grafana/release
+- path: /instance_groups/name=grafana/jobs/name=grafana/release
+  type: replace
   value: grafana-6.0.0
