@@ -4,7 +4,7 @@ set -eux
 
 # Copy common utils
 mkdir -p ${BOSH_INSTALL_TARGET}/common
-cp -a ${BOSH_COMPILE_TARGET}/prometheus-bosh-release/src/common/utils.sh ${BOSH_INSTALL_TARGET}/common
+cp -a ${BOSH_COMPILE_TARGET}/prometheus-boshrelease/src/common/utils.sh ${BOSH_INSTALL_TARGET}/common
 
 # Extract grafana package
 tar xzvf ${BOSH_COMPILE_TARGET}/grafana/grafana-6.0.0.linux-x64.tar.gz

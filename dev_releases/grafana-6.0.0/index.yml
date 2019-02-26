@@ -1,6 +1,8 @@
 builds:
   01cf9d4b-b104-458e-433e-db0ce85c0dc5:
     version: 0+dev.2
+  6c3d9bf6-5c2e-4814-5e3b-0120e71a9005:
+    version: 0+dev.4
   c20f7406-2101-418f-5b38-df117d1ad91d:
     version: 0+dev.3
   c7d5acc6-dec4-4744-7f87-d912597eb614:
