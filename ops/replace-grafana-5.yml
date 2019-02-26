@@ -1,0 +1,10 @@
+---
+- type: replace
+  path: /releases/-
+  value:
+    name: grafana-6.0.0
+    version: 1.0.0
+
+- type: replace
+  path: /instance_groups/name=grafana/jobs/name=grafana/release
+  value: grafana-6.0.0

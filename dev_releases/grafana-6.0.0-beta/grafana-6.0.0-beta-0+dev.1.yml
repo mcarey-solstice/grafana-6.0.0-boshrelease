@@ -1,0 +1,25 @@
+name: grafana-6.0.0-beta
+version: 0+dev.1
+commit_hash: empty
+uncommitted_changes: true
+jobs:
+- name: grafana
+  version: 36436f24c0338892a2a2d7a4d8fa5883bf704e33
+  fingerprint: 36436f24c0338892a2a2d7a4d8fa5883bf704e33
+  sha1: a1d05d97d5a5b8ea21a79b957799a27a51233731
+packages:
+- name: grafana
+  version: 3472334a1e4baa59c8ffa6b2ca7171684b7fb505
+  fingerprint: 3472334a1e4baa59c8ffa6b2ca7171684b7fb505
+  sha1: 53d248cd8673167049faa10869941faaa6bfdd75
+  dependencies: []
+- name: grafana_jq
+  version: ee14baaaefd677c9195e6a33441f6253fb26b258
+  fingerprint: ee14baaaefd677c9195e6a33441f6253fb26b258
+  sha1: fcc2a4a1981401298de5033e653918382e37988f
+  dependencies: []
+- name: grafana_plugins
+  version: c6a95dad8bf164e32b8f305f4fca1637dac61bb5
+  fingerprint: c6a95dad8bf164e32b8f305f4fca1637dac61bb5
+  sha1: 019b33b99c717070987ac89072a4b1f727b6c185
+  dependencies: []

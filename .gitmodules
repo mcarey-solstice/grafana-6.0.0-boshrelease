@@ -1,0 +1,3 @@
+[submodule "src/prometheus-boshrelease"]
+	path = src/prometheus-boshrelease
+	url = https://github.com/bosh-prometheus/prometheus-boshrelease.git
